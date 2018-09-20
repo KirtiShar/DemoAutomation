@@ -1,0 +1,7 @@
+#Addred Added by Anand
+#Mon May 21 15:22:42 IST 2018
+status=single
+age=27
+name=Anand
+sex=male
+Address=Sasaram

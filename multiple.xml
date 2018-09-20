@@ -1,0 +1,12 @@
+
+<suite name="TestNG session Test Automation suite">
+  <test name="TestNG feature Test">
+    <classes>
+      <class name="TestNgAutomation.AssertImplimentation"/>
+      <class name="TestNgAutomation.AssertSample"/>
+      <class name="TestNgAutomation.DependsOn"/>
+      <class name="TestNgAutomation.DisableTest"/>
+      <class name="TestNgAutomation.FirstPgm"/>
+    </classes>
+  </test> 
+</suite> 
